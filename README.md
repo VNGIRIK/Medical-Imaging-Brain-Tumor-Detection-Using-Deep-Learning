@@ -55,9 +55,10 @@ To build a robust brain tumor classification system that can:
 
 ###  Running the App
 
-```bash
+
 pip install -r requirements.txt
 python app.py
+
 
 ### Results
 Classification Accuracy: ~95%
